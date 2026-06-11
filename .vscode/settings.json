@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "utils.h": "c",
+        "first_pass.h": "c",
+        "symbol_table.h": "c"
+    }
+}
